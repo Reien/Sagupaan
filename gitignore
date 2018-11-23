@@ -1,0 +1,10 @@
+## VS code ignore ##
+####################
+.vs/
+.vscode/
+
+## Unity Generated Files ##
+###########################
+Temp/
+obj/
+Library/
